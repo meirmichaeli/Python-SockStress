@@ -22,5 +22,5 @@ chmod 777 Python-SockStress
 
 sudo pip3 install scapy
 
-python3 ./sock_stress_v2.py 10.110.24.143 443 10
+python3 ./sock_stress_v2.py 10.110.24.143 80 10
 
