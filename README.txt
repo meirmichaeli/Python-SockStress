@@ -1,5 +1,3 @@
-Proof of Concept on my blog at:
-http://www.pan0pt1c0n.net/sockstress-denial-of-service-with-python-2/
 
 		***Basic Usage***
 Usage - ./sock_stress.py [Target-IP] [Port Number] [Threads]
@@ -9,9 +7,9 @@ against the FTP (port 21) service on 10.0.0.5
 
 		***NOTE***
 Make sure you target a port that responds when a connection is made.
-
+######################################
 Do Not Use It In Production!
-
+######################################
 This is originaly downloaded from https://github.com/pan0pt1c0n/Python-SockStress
 
 and converted to support Python3
